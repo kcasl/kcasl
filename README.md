@@ -20,6 +20,6 @@
 <div align=center><h1>Contributions</h1></div>
 <div align=center>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kcasl&theme=vue-bright&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcasl&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcasl&layout=compact&theme=cobalt&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcasl&show_icons=true&include_all_commits=true&theme=white&hide_border=true" alt="My github stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcasl&layout=compact&theme=white&hide_border=true" />
 </div>
