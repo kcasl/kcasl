@@ -15,8 +15,10 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
   <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steamworks&logoColor=white"> 
   
+<div>
+</div>
+  
  </div>
-
 <div align=center><h1>Contributions</h1></div>
 <div align=center>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kcasl&theme=vue-gray&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
