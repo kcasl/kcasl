@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"> 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
   <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steamworks&logoColor=white"> 
-  <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+
 </div>
