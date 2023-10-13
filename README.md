@@ -8,5 +8,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
+  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
+  <img src="https://img.shields.io/badge/unity-0E1128?style=for-the-badge&logo=unity&logoColor=white"> 
   <br>
 </div>
