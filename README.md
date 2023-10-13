@@ -14,5 +14,6 @@
   <br>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
   <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steamworks&logoColor=white"> 
-
+  
+  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">  
 </div>
