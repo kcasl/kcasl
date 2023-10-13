@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=#0E1128"> 
+  <img src="https://img.shields.io/badge/unrealengine-F7DF1E?style=for-the-badge&logo=unrealengine&logoColor=#0E1128"> 
   <br>
 </div>
