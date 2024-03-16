@@ -9,7 +9,7 @@
   <div>
 </div>
     
-<div align=center><h1>🤝Partnership</h1></div>
+<div align=center><h1>🤝Steamworks Partner</h1></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"> 
         <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steamworks&logoColor=white">
