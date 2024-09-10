@@ -7,6 +7,7 @@
     <h3>Skill</h3>
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <h3>Engine</h3>
     <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> 
     <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"> 
