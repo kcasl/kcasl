@@ -43,3 +43,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331)](https://solved.ac/sadd21331/)
 
+<br>
+
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sadd21331" width="600" height="300"/></a>
+
