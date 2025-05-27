@@ -27,15 +27,6 @@
 </div>
 
 <br>
-    
-<div align=center><h1>Contributions</h1></div>
-<div align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcasl&show_icons=true&include_all_commits=true&theme=gray&hide_border=true" alt="My github stats" /> 
-</div>
-
-<br>
-
-<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331)](https://solved.ac/sadd21331/)
 
