@@ -43,6 +43,6 @@
 </div>
 
 <div align=center><h1>💻PS</h1></div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331)](https://solved.ac/sadd21331/)
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331)](https://solved.ac/sadd21331/)
