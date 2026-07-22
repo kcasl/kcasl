@@ -1,130 +1,104 @@
-<div align="center">
 <h1 align="center">JongWon Kim</h1>
-<h3 align="center">Reinforcement Learning · Simulation · Game AI</h3>
-<p align="center"><code>KENTECH</code> · Department of Energy Engineering</p>
+<p align="center"><strong>Reinforcement Learning · Simulation · Game AI</strong></p>
+<p align="center">KENTECH · Department of Energy Engineering</p>
 <p align="center">
-  <a href="https://kcasl.dev"><img src="https://img.shields.io/badge/Portfolio-kcasl.dev-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://orcid.org/0009-0008-5488-1727"><img src="https://img.shields.io/badge/ORCID-0009--0008--5488--1727-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://github.com/kcasl"><img src="https://img.shields.io/badge/GitHub-kcasl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:kkcasl@ieee.org"><img src="https://img.shields.io/badge/Email-kkcasl@ieee.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://kcasl.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kcasl.dev-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0008-5488-1727"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0008--5488--1727-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="https://github.com/kcasl"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kcasl-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:kkcasl@ieee.org"><img alt="Email" src="https://img.shields.io/badge/Email-kkcasl@ieee.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-# JongWon Kim
-**Reinforcement Learning · Simulation · Game AI**
-`KENTECH` · Department of Energy Engineering
+
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-kcasl.dev-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kcasl.dev)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--5488--1727-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5488-1727)
-[![GitHub](https://img.shields.io/badge/GitHub-kcasl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kcasl)
-[![Email](https://img.shields.io/badge/Email-kkcasl@ieee.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkcasl@ieee.org)
-</div>
----
-## About
 
-[6 lines collapsed]
+<h3 align="left">About</h3>
 
-## Stacks & Experience
-<div align="center">
-<p align="center"><strong>Language</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<p align="left">
+Building <strong>Sim-to-Real RL</strong>, <strong>Unreal/Unity simulation</strong>, and <strong>game AI</strong> systems — from autonomous driving and multi-agent environments to efficient 3D rendering pipelines.
+<br><br>
+Sungsa Middle School → Hana Academy Seoul → KENTECH
 </p>
-**Language**
-<p align="center"><strong>Skills</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+
+<br>
+
+<h3 align="left">Stacks</h3>
+
+<p align="left"><strong>Language</strong></p>
+<p align="left">
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<p align="center"><strong>Engines</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+
+<p align="left"><strong>Skills</strong></p>
+<p align="left">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
-**Skills**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-**Engines**
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
-<img src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
----
-## Featured Projects
-| | Project | Stack | Summary |
-|:---:|:---|:---|:---|
-| 🚗 | [Camera-Based Active Driving RL](https://github.com/kcasl/Reinforcement_Learning_with_Camera_for_Automoblie) | Unity · RL | Sim-to-Real camera driving for autonomous vehicles |
-| 🎮 | [Adversarial Curriculum Game AI](https://github.com/kcasl) | UE5 · PPO | Multi-agent RL with dynamic difficulty curriculum |
-| 🛰️ | [MQTT — Unreal Engine](https://github.com/kcasl/Unreal-Engine-MQTT) | UE · MQTT | Smart disaster alert system with sensor integration |
-| 🗺️ | [LiDAR 3D Map Simulation](https://github.com/kcasl/Unreal-Engine-LiDAR-CollisionMap) | UE · LiDAR | Collision-inclusive 3D map generation (KCC2024) |
-| 🌐 | [SRD Three.js](https://github.com/kcasl/SRD-three.js) | Three.js | Interactive pathfinding web service |
-| Project | Stack | Summary |
-| :--- | :--- | :--- |
-| [Camera-Based Active Driving RL](https://github.com/kcasl/Reinforcement_Learning_with_Camera_for_Automoblie) | Unity · RL | Sim-to-Real camera driving for autonomous vehicles |
-| [Adversarial Curriculum Game AI](https://github.com/kcasl) | UE5 · PPO | Multi-agent RL with dynamic difficulty curriculum |
-| [MQTT — Unreal Engine](https://github.com/kcasl/Unreal-Engine-MQTT) | UE · MQTT | Smart disaster alert system with sensor integration |
-| [LiDAR 3D Map Simulation](https://github.com/kcasl/Unreal-Engine-LiDAR-CollisionMap) | UE · LiDAR | Collision-inclusive 3D map generation (KCC2024) |
-| [SRD Three.js](https://github.com/kcasl/SRD-three.js) | Three.js | Interactive pathfinding web service |
-More on **[kcasl.dev → Portfolio](https://kcasl.dev/#portfolio)**
 
-[1 line collapsed]
-
-## Research
-- **RL-Based First-Person LOD Control** — KENTECH (2026) · co-authored with Ukcheol Shin  
-- **Game AI Stability via Adversarial Curriculum MARL** — KENTECH (2026)  
-- **Exploration Robot Stability with Adversarial RL** — KIISE KSC 2024  
-- **LiDAR Collision Map in Unreal Engine** — KIISE KCC 2024  
-- **RL-Based First-Person LOD Control** — KENTECH (2026) · co-authored with Ukcheol Shin
-- **Game AI Stability via Adversarial Curriculum MARL** — KENTECH (2026)
-- **Exploration Robot Stability with Adversarial RL** — KIISE KSC 2024
-- **LiDAR Collision Map in Unreal Engine** — KIISE KCC 2024
-Full list → **[kcasl.dev → Papers](https://kcasl.dev/#proceeding-paper)**
-
-[2 lines collapsed]
-
-## Honors
-| Year | Award | Event |
-|:---:|:---|:---|
-| :---: | :--- | :--- |
-| 2026 | Outstanding Student Paper | IEIE Summer Conference |
-| 2025 | Grand Prize | Hyundai Mobis 9th Youth Engineering Conference |
-| 2025 | Excellence Award | Hyundai Mobis Autonomous Vehicle Competition |
-
-[3 lines collapsed]
-
----
-<div align="center">
-<h2 align="center">Steamworks Partner</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white" alt="Steamworks">
+<p align="left"><strong>Engines</strong></p>
+<p align="left">
+<img alt="Unreal Engine" src="https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img alt="Godot" src="https://img.shields.io/badge/GodotEngine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 </p>
-## Steamworks Partner
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white">
-</div>
----
-<div align="center">
-## PS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331)](https://solved.ac/sadd21331/)
-</div>
-<h2 align="center">PS</h2>
+
+<br>
+
+<h3 align="left">Featured Projects</h3>
+
+<ul>
+  <li><a href="https://github.com/kcasl/Reinforcement_Learning_with_Camera_for_Automoblie"><strong>Camera-Based Active Driving RL</strong></a> — Sim-to-Real camera driving (Unity · RL)</li>
+  <li><a href="https://github.com/kcasl"><strong>Adversarial Curriculum Game AI</strong></a> — Multi-agent RL with dynamic curriculum (UE5 · PPO)</li>
+  <li><a href="https://github.com/kcasl/Unreal-Engine-MQTT"><strong>MQTT — Unreal Engine</strong></a> — Smart disaster alert system (UE · MQTT)</li>
+  <li><a href="https://github.com/kcasl/Unreal-Engine-LiDAR-CollisionMap"><strong>LiDAR 3D Map Simulation</strong></a> — Collision-inclusive 3D mapping (KCC2024)</li>
+  <li><a href="https://github.com/kcasl/SRD-three.js"><strong>SRD Three.js</strong></a> — Interactive pathfinding web service</li>
+</ul>
+
+<p align="left">More → <a href="https://kcasl.dev/#portfolio"><strong>kcasl.dev</strong></a></p>
+
+<br>
+
+<h3 align="left">Research</h3>
+
+<ul>
+  <li><strong>RL-Based First-Person LOD Control</strong> — KENTECH (2026) · with Ukcheol Shin</li>
+  <li><strong>Game AI Stability via Adversarial Curriculum MARL</strong> — KENTECH (2026)</li>
+  <li><strong>Exploration Robot Stability with Adversarial RL</strong> — KIISE KSC 2024</li>
+  <li><strong>LiDAR Collision Map in Unreal Engine</strong> — KIISE KCC 2024</li>
+</ul>
+
+<p align="left">Papers → <a href="https://kcasl.dev/#proceeding-paper"><strong>kcasl.dev</strong></a></p>
+
+<br>
+
+<h3 align="left">Honors</h3>
+
+<ul>
+  <li><strong>2026</strong> — Outstanding Student Paper, IEIE Summer Conference</li>
+  <li><strong>2025</strong> — Grand Prize, Hyundai Mobis 9th Youth Engineering Conference</li>
+  <li><strong>2025</strong> — Excellence Award, Hyundai Mobis Autonomous Vehicle Competition</li>
+  <li><strong>2024</strong> — Silver Medal, KSME National Student Design Competition</li>
+</ul>
+
+<p align="left">Awards → <a href="https://kcasl.dev/#portfolio"><strong>kcasl.dev</strong></a></p>
+
+<br>
+
+<h3 align="center">Steamworks Partner</h3>
 <p align="center">
-  <a href="https://solved.ac/sadd21331/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331" alt="Solved.ac Profile"></a>
+<img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+<img alt="Steamworks" src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white">
+</p>
+
+<br>
+
+<h3 align="center">PS</h3>
+<p align="center">
+<a href="https://solved.ac/sadd21331/"><img alt="Solved.ac Profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sadd21331"></a>
 </p>
