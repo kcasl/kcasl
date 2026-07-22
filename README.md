@@ -26,7 +26,7 @@ I build <strong>Sim-to-Real RL</strong>, <strong>real-time 3D simulation</strong
 </p>
 
 <p>
-<code>Sungsa Middle School</code> → <code>Hana Academy Seoul</code> → <code>KENTECH</code>
+<code>Hana Academy Seoul</code> → <code>KENTECH</code>
 </p>
 
 </td>
