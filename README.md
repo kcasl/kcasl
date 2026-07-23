@@ -1,6 +1,6 @@
 <h1 align="center">JongWon Kim</h1>
 <p align="center">
-  <strong>Reinforcement Learning · Simulation · Game AI</strong>
+  <strong>Reinforcement Learning · Simulation · Game AI & Game Engineering</strong>
 </p>
 <p align="center">
   <sub>KENTECH · Department of Energy Engineering</sub>
